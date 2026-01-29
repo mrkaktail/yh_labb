@@ -39,7 +39,7 @@ Check to see available schemas: /dn
 Check to see tables: /dt
 SELECT * FROM skol_info.person; or SELECT * FROM skol_info.*Any Table*;
 
-------------------------------------------------------------------------------------------------------**
+------------------------------------------------------------------------------------------------------
 
 
 Features of this repo: 
@@ -48,6 +48,7 @@ Features of this repo:
 - handles multiple locations goteborg/stockholm
 - supports both local educators and consultants
 - includes sample queries demonstrating joins
+
 
 
 
