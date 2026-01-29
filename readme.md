@@ -4,7 +4,7 @@ This repo contains a database models and implementations for a vocational school
 The goal of this lab is to design a database that tracks students, courses, programs, educators etc (will add more later)
 
 ------------------------------------------------------------------------------------------------------
-Folder structure and usage: (llm pasted boilerplate to iterate on later) 
+Folder structure and usage: 
 yh_labb/
 │
 ├── README.md                 
@@ -48,6 +48,7 @@ Features of this repo:
 - handles multiple locations goteborg/stockholm
 - supports both local educators and consultants
 - includes sample queries demonstrating joins
+
 
 
 
