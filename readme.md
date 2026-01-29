@@ -39,7 +39,8 @@ Do this: DROP SCHEMA IF EXISTS skola_info CASCADE;
 Check to see if everything works:
 Check to see available schemas: /dn
 Check to see tables: /dt
-SELECT * FROM skol_info.person; or SELECT * FROM skol_info.*Any table*.*Any column* ;
+SELECT * FROM skol_info.*Any table*;
+Example-query: SELECT * FROM skol_info.person;
 ```
 ------------------------------------------------------------------------------------------------------
 
@@ -50,6 +51,7 @@ Features of this repo:
 - handles multiple locations goteborg/stockholm
 - supports both local educators and consultants
 - includes sample queries demonstrating joins
+
 
 
 
