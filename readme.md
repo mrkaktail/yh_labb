@@ -54,11 +54,11 @@ Example-query: SELECT * FROM skol_info.person;
 
 Features of this repo & db: 
 - normalized data in 3nf
-- separate table for sensetive/personal data
-- handles multiple locations goteborg/stockholm
-- supports both local educators and consultants
+- handles multiple locations
+- separate table for personal data
 - represents optional freestanding courses
 - includes sample queries demonstrating joins
+- supports both local educators and consultants
 
 
 
