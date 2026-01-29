@@ -17,6 +17,12 @@ yh_labb/
 │   └── presentation.pdf
 ├── videos/                   
 │   └── pitch_link.txt
+├── data_models/                      
+│   ├── conceptual.png
+│   ├── logical.png
+│   ├── physical.png
+│   ├── 3NFargument.png
+│   └── RelationShipStatements.png
 ```
 ```
 How to use:
@@ -51,6 +57,7 @@ Features of this repo:
 - handles multiple locations goteborg/stockholm
 - supports both local educators and consultants
 - includes sample queries demonstrating joins
+
 
 
 
