@@ -5,6 +5,7 @@ The goal of this lab is to design a database that tracks students, courses, prog
 
 ------------------------------------------------------------------------------------------------------
 Folder structure and usage: 
+```
 yh_labb/
 │
 ├── README.md                 
@@ -16,7 +17,7 @@ yh_labb/
 │   └── presentation.pdf
 ├── videos/                   
 │   └── pitch_link.txt
-
+```
 How to use:
 1. Set up docker and postgres
 2. Copy the files into the container:
@@ -48,6 +49,7 @@ Features of this repo:
 - handles multiple locations goteborg/stockholm
 - supports both local educators and consultants
 - includes sample queries demonstrating joins
+
 
 
 
