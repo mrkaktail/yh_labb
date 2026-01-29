@@ -18,6 +18,7 @@ yh_labb/
 ├── videos/                   
 │   └── pitch_link.txt
 ```
+```
 How to use:
 1. Set up docker and postgres
 2. Copy the files into the container:
@@ -39,7 +40,7 @@ Check to see if everything works:
 Check to see available schemas: /dn
 Check to see tables: /dt
 SELECT * FROM skol_info.person; or SELECT * FROM skol_info.*Any Table*;
-
+```
 ------------------------------------------------------------------------------------------------------
 
 
@@ -49,6 +50,7 @@ Features of this repo:
 - handles multiple locations goteborg/stockholm
 - supports both local educators and consultants
 - includes sample queries demonstrating joins
+
 
 
 
