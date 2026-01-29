@@ -1,7 +1,7 @@
 Yh_labb for Data Modeling lab.
 
 This repo contains a database models and implementations for a vocational school system called YrkesCo.
-The goal of this lab is to design a database that tracks students, courses, programs, educators etc (will add more later)
+The goal of this lab is to design a database that tracks students, courses, programs, educators, classes, locations, consulting companies, consultants, educational leaders. 
 
 ------------------------------------------------------------------------------------------------------
 Folder structure and usage: 
@@ -49,6 +49,7 @@ Features of this repo:
 - handles multiple locations goteborg/stockholm
 - supports both local educators and consultants
 - includes sample queries demonstrating joins
+
 
 
 
