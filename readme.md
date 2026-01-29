@@ -32,7 +32,7 @@ How to use:
    2.1 copy schema.sql: docker cp /path/to/schema.sql yrkesco-postgres:/schema.sql
    2.2 copy insert.sql: docker cp /path/to/sql/insert.sql yrkesco-postgres:/insert.sql
    2.3 copy the queries.sql (if you want to use the query file): docker cp /path/to/sql/queries.sql yrkesco-postgres:/queries.sql
-(if you update any of the file contents later you will need to copy the updated files into the container again)
+(if you update any of the file contents later you will need to copy the updated files into the container again, old versions will be replaced:)
 
 4. run this from terminal(bash) to open a PostgreSQL terminal instance: docker exec -it yrkesco-postgres psql -U postgres
 
@@ -59,6 +59,7 @@ Features of this repo & db:
 - represents optional freestanding courses
 - includes sample queries demonstrating joins
 - supports both local educators and consultants
+
 
 
 
